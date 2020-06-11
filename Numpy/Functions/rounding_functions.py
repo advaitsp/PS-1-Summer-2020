@@ -9,3 +9,4 @@ print 'After rounding:'
 print np.around(a) 
 print np.around(a, decimals = 1) 
 print np.around(a, decimals = -1)
+
