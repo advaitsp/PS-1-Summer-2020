@@ -7,3 +7,4 @@ print '\n'
 
 print 'The modified array:' 
 print np.ceil(a)
+
