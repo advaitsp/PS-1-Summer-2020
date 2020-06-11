@@ -12,3 +12,4 @@ print '\n'
 
 print 'Tangent values for given angles:' 
 print np.tan(a*np.pi/180) 
+
