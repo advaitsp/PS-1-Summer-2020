@@ -8,4 +8,3 @@ ax.pie(y, labels = x,autopct='%1.2f%%')
 plt.title("Codes written ny Students")
 
 plt.show()
-© 2020 GitHub, Inc.
