@@ -1,7 +1,7 @@
 from PIL import Image
 import numpy as np
 
-im =Image.open('messi.png')
+im =Image.open('sachin.png')
 w,h = im.size
 left = w/4
 right =3*w/4
