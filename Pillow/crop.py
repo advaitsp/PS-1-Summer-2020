@@ -9,3 +9,4 @@ top=h/4
 bottom=3*h/4
 im=im.crop((left,top,right,bottom))
 im.show()
+
